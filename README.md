@@ -5,7 +5,7 @@ Copyright © 2025 JP A-Marl
 ---
 
 
-# LTDW Weather Theory – Year-Ahead Deterministic Storms & Hurricane & Typhoon Landfall and Heat Waves & Cold Snaps Forecast
+## LTDW Weather Theory – Year-Ahead Deterministic Storms & Hurricane & Typhoon Landfall and Heat Waves & Cold Snaps Forecast
 
 
 ---
