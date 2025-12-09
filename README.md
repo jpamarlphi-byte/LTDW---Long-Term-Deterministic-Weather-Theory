@@ -5,7 +5,7 @@ Copyright © 2025 JP A-Marl
 ---
 
 
-# LTDW – Year-Ahead Deterministic Hurricane & Typhoon Landfall and Heat Waves & Cond Snaps Forecast
+# LTDW – Year-Ahead Deterministic Hurricane & Typhoon Landfall and Heat Waves & Cold Snaps Forecast
 
 
 ---
