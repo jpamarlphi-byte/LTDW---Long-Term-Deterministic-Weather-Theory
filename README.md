@@ -4,9 +4,9 @@ Copyright © 2025 JP A-Marl
 
 ---
 
-
+Release Title: 
 ## LTDW Weather Theory – Year-Ahead Deterministic Storms & Hurricane & Typhoon Landfall and Heat Waves & Cold Snaps Forecast causing Loss of Life and Severe Damage
-
+Version v1.1
 
 ---
 
