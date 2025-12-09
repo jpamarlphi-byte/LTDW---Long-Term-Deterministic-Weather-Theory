@@ -18,7 +18,7 @@ DOI 10.5281/zenodo.17798798
 
 ---
 
-Document latest updated version - v1.0 09Dec2025
+Document latest updated version - v1.1 09Dec2025
 
 ---
 
@@ -36,7 +36,7 @@ LTDW - Long-Term Deterministic Weather Theory for EAP - Extreme Atmospheric Phen
 ---
 
 Keywords / Topics / Tags:
-LTDW, Long-Term Deterministic Weather, year-ahead hurricane forecast, deterministic landfall, catastrophe model, cat-bond, sovereign risk transfer, extreme weather prediction, climate risk engineering, JP A-Marl LTDW Weather Theory
+LTDW, Long-Term Deterministic Weather, year-ahead hurricane forecast, deterministic landfall, catastrophe model, cat-bond, sovereign risk transfer, extreme weather prediction, climate risk engineering, JP A-Marl LTDW Weather Theory, DOI 10.5281/zenodo.17798798
 
 
 ---
